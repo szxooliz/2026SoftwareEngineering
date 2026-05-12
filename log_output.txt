@@ -1,0 +1,11 @@
+"Github Repository: https://github.com/szxooliz/2026SoftwareEngineering" 
+[szxooliz] Mon May 11 22:12:03 2026 +0900 최종 파일 정리 - UI 제외 86fb48a
+[JI SUN AHN] Mon May 11 21:00:07 2026 +0900 Merge pull request #2 from szxooliz/jisun 7a07597
+[tama] Mon May 11 20:58:49 2026 +0900 안지선 : description 업로드 ab43397
+[yeopkwang] Mon May 11 10:11:21 2026 +0900 Add files via upload de51d25
+[h5owh] Sun May 10 23:49:33 2026 +0900 Move file into Requirementlist forder b9a00c5
+[h5owh] Sun May 10 23:47:49 2026 +0900 Merge branch 'main' of https://github.com/szxooliz/2026SoftwareEngineering b30b39a
+[h5owh] Sun May 10 23:40:32 2026 +0900 RequirementList 149f7eb
+[JI SUN AHN] Sun May 10 22:51:42 2026 +0900 Merge pull request #1 from szxooliz/jisun 5e34154
+[tama] Sun May 10 22:50:52 2026 +0900 안지선 : Requirement List 업로드 50bc55d
+[szxooliz] Sun May 10 22:24:31 2026 +0900 Create RequirementList_sj.pdf fc85612
